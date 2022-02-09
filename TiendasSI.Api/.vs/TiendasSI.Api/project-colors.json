@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0db893ec-6737-4912-8374-a389f6cb6a0b": {
+      "ProjectGuid": "0db893ec-6737-4912-8374-a389f6cb6a0b",
+      "DisplayName": "TiendasSI.Api",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "71c735ef-49b4-4b80-8058-1a3512c8e407": {
+      "ProjectGuid": "71c735ef-49b4-4b80-8058-1a3512c8e407",
+      "DisplayName": "TiendasSI.Web",
+      "ColorIndex": 1
+    },
+    "c054a867-77be-47f5-a8ee-ac9d4827128d": {
+      "ProjectGuid": "c054a867-77be-47f5-a8ee-ac9d4827128d",
+      "DisplayName": "TiendasSI.Web",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
